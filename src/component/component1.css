@@ -1,0 +1,24 @@
+textarea{
+    border: 2px solid black;
+    border-radius: 3px;
+    width:50%;
+    height: 300px;
+    padding: 10px;
+}
+body{
+    background-color:aquamarine;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    border: 2px solid black;
+    border-radius: 10px;
+    height: fit-content;
+}
+.heading{
+    font-size: 30px;
+}
+h1,h2{
+    font-size: 25px;
+}
